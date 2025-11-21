@@ -1,6 +1,6 @@
 title: nhm # name of the site
 author: nhm # name of site's author
-url: https://nhm.github.io # root address of the site
+url: https://nhmv.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
